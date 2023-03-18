@@ -1,0 +1,9 @@
+
+.py-3 {
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+}
+.scroll {
+    max-height: 577px;
+    overflow-y: auto;
+}
